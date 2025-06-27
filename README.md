@@ -31,8 +31,8 @@
 ## 📫 Contact | ช่องทางติดต่อ
 
 - 🔗 GitHub: [github.com/santipanya](https://github.com/Aonney)
-- 📸 Instagram: [instagram.com/yourusername](https://instagram.com/yourusername) <!-- เปลี่ยนลิงก์ตามจริง -->
-- 📘 Facebook: [facebook.com/yourusername](https://facebook.com/yourusername) <!-- เปลี่ยนลิงก์ตามจริง -->
-- 📱 Line: [Line ID: your_line_id](https://line.me) <!-- เปลี่ยนเป็นลิงก์หรือชื่อ ID -->
-- 📧 Email: santi@email.com
+- 📸 Instagram: [instagram.com/yourusername](https://instagram.com/aoon.s_) <!-- เปลี่ยนลิงก์ตามจริง -->
+- 📘 Facebook: [facebook.com/yourusername](https://facebook.com/Santipanyanoi) <!-- เปลี่ยนลิงก์ตามจริง -->
+- 📱 Line: 0643474815 <!-- เปลี่ยนเป็นลิงก์หรือชื่อ ID -->
+- 📧 Email: aon007567@email.com
 
